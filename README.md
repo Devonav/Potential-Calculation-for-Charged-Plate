@@ -1,5 +1,4 @@
 Title: Finite Difference Methods for Computing Electric Potential
-
 Overview:
 This Python script computes and compares the electric potential near a charged plate using exact calculations and two finite difference methods. It visualizes the results and the absolute error between exact and approximate solutions.
 
