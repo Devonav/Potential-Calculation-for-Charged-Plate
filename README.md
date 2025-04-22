@@ -12,7 +12,7 @@ main.py: Contains the main script.
 functions.py: Defines functions for exact computation and finite difference methods.
 plots.py: Contains functions for plotting results.
 Libraries Used:
-NumPy: For numerical operations.
+NumPy: For numerical operations
 Matplotlib: For plotting graphs.
 Functions:
 V_exact(sigma, dr, rrange): Computes exact potential values at given intervals from a charged plate.
